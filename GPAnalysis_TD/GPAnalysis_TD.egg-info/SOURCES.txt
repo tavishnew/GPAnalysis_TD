@@ -1,0 +1,8 @@
+README.md
+setup.py
+GPAnalysis_TD.egg-info/PKG-INFO
+GPAnalysis_TD.egg-info/SOURCES.txt
+GPAnalysis_TD.egg-info/dependency_links.txt
+GPAnalysis_TD.egg-info/requires.txt
+GPAnalysis_TD.egg-info/top_level.txt
+init/__init__.py

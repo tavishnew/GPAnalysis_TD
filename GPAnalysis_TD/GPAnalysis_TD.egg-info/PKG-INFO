@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: GPAnalysis_TD
+Version: 0.1.0
+Summary: A package for Gaussian Process Analysis with Temporal Dynamics
+Author: Tavish
+Author-email: tavish0554@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: tensorflow
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
